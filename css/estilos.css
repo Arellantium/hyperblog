@@ -1,12 +1,8 @@
 body
 {
-<<<<<<< HEAD
-    color: blue;
-=======
-    color: red;
->>>>>>> cabecera
+    color: #333;
     text-align: center;
-    font-family: "Courier";
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -14,8 +10,8 @@ body
 
 #cabecera
 {
-    background: #33a;
-    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.5);
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -26,9 +22,8 @@ body
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 0.8em
 }
-
 #container
 {
     width: 70%;
